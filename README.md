@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Vinith</h1>
-<h3 align="center">🚀 Aspiring AI / ML Engineer from India</h3>
+<h1 align="center">Hi, I'm Vinith</h1>
+<h3 align="center">Aspiring AI / ML Engineer from India</h3>
 
 <p align="center">
   <i>Building intelligent systems at the intersection of neuroscience, vision, and machine learning</i>
@@ -7,17 +7,17 @@
 
 <hr/>
 
-<h2>🧠 About Me</h2>
+<h2>About Me</h2>
 
 <ul>
-  <li>🔭 Currently working on <b>Image Reconstruction using Brain fMRI Data</b></li>
-  <li>🌱 Learning <b>PyTorch</b> & <b>ML / DL Architectures</b></li>
-  <li>📫 Reach me at <b>vinithlankireddy@gmail.com</b></li>
+  <li>Currently working on <b>Image Reconstruction using Brain fMRI Data</b></li>
+  <li>Learning <b>PyTorch</b> & <b>ML / DL Architectures</b></li>
+  <li>Reach me at <b>vinithlankireddy@gmail.com</b></li>
 </ul>
 
 <hr/>
 
-<h2>🌐 Connect With Me</h2>
+<h2>Connect With Me</h2>
 
 <p align="left">
   <a href="https://twitter.com/@airys369" target="blank">
