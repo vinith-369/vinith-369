@@ -29,9 +29,9 @@
   <a href="https://medium.com/@vinithlankireddy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/vinith_369" target="blank">
+  <!-- <a href="https://www.leetcode.com/vinith_369" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <hr/>
